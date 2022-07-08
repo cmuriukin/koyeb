@@ -1,0 +1,4 @@
+functions:
+  - name: hello-world
+    image: ubuntu
+    command: ["bash", "-c", "echo 'hello-world from Koyeb'"]
